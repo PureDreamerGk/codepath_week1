@@ -44,7 +44,7 @@ Describe any challenges encountered while building the app.
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/4dcfdb5c-be3b-4dfd-977a-1ad2ae96226e.gif?ClientID=vimeo-core-prod&Date=1644634848&Signature=28bf8a76a0bcb482799ee142f1988b773238152a' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/d3d24552-185b-4ae7-8bdc-b9753af27bfa.gif?ClientID=vimeo-core-prod&Date=1644635108&Signature=598d971f47fdf019e1b36123f8e1593b612e2bb6' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ### Notes
